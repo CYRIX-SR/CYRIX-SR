@@ -17,6 +17,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br></br>
 
-![snake gif](https://github.com/CYRIX-SR/CYRIX-SR/blob/output/github-snake.svg)
+![snake gif](https://github.com/CYRIX-SR/CYRIX-SR/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
