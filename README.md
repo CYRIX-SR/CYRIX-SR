@@ -1,8 +1,10 @@
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CYRIX-SR&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CYRIX-SR&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CYRIX-SR&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=CYRIX-SR&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=CYRIX-SR&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CYRIX-SR&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
