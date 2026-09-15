@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:a371f7&text=CYRIX&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=500&color=0:000000,30:0d0617,60:32145f,85:7c3aed,100:a371f7&text=CYRIX&fontSize=115&fontColor=FFFFFF&animation=fadeIn&stroke=C084FC&strokeWidth=7"
+    width="100%"
+    alt="CYRIX"
+  />
+</p>
 
 <br></br>
 ## 🧠 My Focus Areas
