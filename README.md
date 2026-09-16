@@ -26,7 +26,6 @@
   <img src="https://trophy.ryglcloud.net/?username=CYRIX-SR&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="CYRIX-SR's GitHub Trophies" />
 </p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CYRIX-SR&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br></br>
 
 ## 🛠️ Languages & Tools
