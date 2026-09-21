@@ -16,7 +16,7 @@ https://cyrix-sr.github.io/Portfolio/
 - Security Researcher
 - Ethical Hacker
 - Cyber Security Expert
-- Software Engineer
+- Bug Hunter
 
 <br></br>
 ## 📊 GitHub Stats & Trophies
