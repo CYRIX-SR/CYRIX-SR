@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=500&color=0:2E1065,30:6D28D9,55:A855F7,75:C084FC,100:E9D5FF&text=CYRIX&fontSize=115&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=4"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:2E1065,30:6D28D9,55:A855F7,75:C084FC,100:E9D5FF&text=CYRIX&fontSize=115&fontColor=FFFFFF&animation=fadeIn&stroke=000000&strokeWidth=4"
     width="100%"
     alt="CYRIX"
   />
